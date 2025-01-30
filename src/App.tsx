@@ -10,7 +10,10 @@ function Loader() {
 
 function App() {
   return (
-    <Canvas shadows camera={{ position: [0, 0, 10], fov: 50 }}>
+    <Canvas
+      shadows
+      camera={{ position: [0, 0, 20], fov: 50, near: 0.1, far: 100 }}
+    >
       <Suspense fallback={<Loader />}>
         <Experience />
       </Suspense>

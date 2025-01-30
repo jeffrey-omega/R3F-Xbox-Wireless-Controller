@@ -1,4 +1,4 @@
-# React Three Fiber Vite Starter Template
+# Xbox Wireless Controller
 
 ![Product Screenshot](/public/screenshot.png)
 
@@ -11,6 +11,9 @@
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 - [Drei](https://github.com/pmndrs/drei)
 - [Vite](https://vitejs.dev/)
+- [vitest](https://vitest.dev/)
+- [playwright](https://playwright.dev/)
+- [tanstack/react-query](https://tanstack.com/query/)
 - [typescript](https://www.typescriptlang.org/)
 - [eslint](https://eslint.org/)
 
@@ -47,3 +50,7 @@
    ```sh
     pnpm build
    ```
+
+### Roadmap
+
+### License
