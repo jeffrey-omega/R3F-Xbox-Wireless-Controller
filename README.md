@@ -4,18 +4,8 @@
 
 ### Built With
 
-- [pnpm](https://pnpm.io/)
-- [React](https://reactjs.org)
-- [Nodejs](https://nodejs.org/)
-- [Threejs](https://threejs.org/)
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
-- [Drei](https://github.com/pmndrs/drei)
-- [Vite](https://vitejs.dev/)
-- [vitest](https://vitest.dev/)
-- [playwright](https://playwright.dev/)
-- [tanstack/react-query](https://tanstack.com/query/)
-- [typescript](https://www.typescriptlang.org/)
-- [eslint](https://eslint.org/)
+- [Blender](https://www.blender.org/)
+- [R3F-Vite-Starter-Template](https://github.com/jeffrey-omega/R3F-Vite-Starter-Template)
 
 ### Installation
 

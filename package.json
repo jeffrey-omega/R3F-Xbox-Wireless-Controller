@@ -4,11 +4,16 @@
   "keywords": [
     "react",
     "three",
-    "fiber",
-    "drei",
+    "three.js",
+    "react-three-fiber",
+    "react-three-drei",
     "vite",
-    "starter",
-    "template"
+    "vitest",
+    "blender",
+    "xbox",
+    "3d",
+    "webgl",
+    "xbox-wireless-controller"
   ],
   "private": true,
   "version": "0.0.0",
