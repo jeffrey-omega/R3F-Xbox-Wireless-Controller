@@ -16,7 +16,7 @@ importers:
         version: 8.17.14(@types/react@18.3.18)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(three@0.173.0)
       '@tanstack/react-query':
         specifier: ^5.65.1
-        version: 5.65.1(react@18.3.1)
+        version: 5.66.0(react@18.3.1)
       '@types/three':
         specifier: ^0.173.0
         version: 0.173.0
@@ -40,8 +40,8 @@ importers:
         specifier: 1.50.1
         version: 1.50.1
       '@tanstack/eslint-plugin-query':
-        specifier: 5.65.0
-        version: 5.65.0(eslint@9.19.0)(typescript@5.7.3)
+        specifier: 5.66.0
+        version: 5.66.0(eslint@9.19.0)(typescript@5.7.3)
       '@types/node':
         specifier: 22.13.0
         version: 22.13.0
@@ -643,16 +643,16 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@tanstack/eslint-plugin-query@5.65.0':
-    resolution: {integrity: sha512-UpPtXcAZPHcoEJY8KFcBg/iS99DYGRfYwKo7BwTIJP0lfrdGEL5r2B8YyYERdXBYZfZUQuLgRdU++pD7dltx3g==}
+  '@tanstack/eslint-plugin-query@5.66.0':
+    resolution: {integrity: sha512-CzZhBxicLDuuSJbkZ4nPcuBqWnhLu72Zt9p/7qLQ93BepVnZJV6ZDlBLBuN5eg7YRACwECPLsntnwo1zuhgseQ==}
     peerDependencies:
       eslint: ^8.57.0 || ^9.0.0
 
-  '@tanstack/query-core@5.65.0':
-    resolution: {integrity: sha512-Bnnq/1axf00r2grRT6gUyIkZRKzhHs+p4DijrCQ3wMlA3D3TTT71gtaSLtqnzGddj73/7X5JDGyjiSLdjvQN4w==}
+  '@tanstack/query-core@5.66.0':
+    resolution: {integrity: sha512-J+JeBtthiKxrpzUu7rfIPDzhscXF2p5zE/hVdrqkACBP8Yu0M96mwJ5m/8cPPYQE9aRNvXztXHlNwIh4FEeMZw==}
 
-  '@tanstack/react-query@5.65.1':
-    resolution: {integrity: sha512-BSpjo4RQdJ75Mw3pqM1AJYNhanNxJE3ct7RmCZUAv9cUJg/Qmonzc/Xy2kKXeQA1InuKATSuc6pOZciWOF8TYQ==}
+  '@tanstack/react-query@5.66.0':
+    resolution: {integrity: sha512-z3sYixFQJe8hndFnXgWu7C79ctL+pI0KAelYyW+khaNJ1m22lWrhJU2QrsTcRKMuVPtoZvfBYrTStIdKo+x0Xw==}
     peerDependencies:
       react: ^18 || ^19
 
@@ -2440,7 +2440,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.32.1':
     optional: true
 
-  '@tanstack/eslint-plugin-query@5.65.0(eslint@9.19.0)(typescript@5.7.3)':
+  '@tanstack/eslint-plugin-query@5.66.0(eslint@9.19.0)(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/utils': 8.22.0(eslint@9.19.0)(typescript@5.7.3)
       eslint: 9.19.0
@@ -2448,11 +2448,11 @@ snapshots:
       - supports-color
       - typescript
 
-  '@tanstack/query-core@5.65.0': {}
+  '@tanstack/query-core@5.66.0': {}
 
-  '@tanstack/react-query@5.65.1(react@18.3.1)':
+  '@tanstack/react-query@5.66.0(react@18.3.1)':
     dependencies:
-      '@tanstack/query-core': 5.65.0
+      '@tanstack/query-core': 5.66.0
       react: 18.3.1
 
   '@testing-library/dom@10.4.0':
