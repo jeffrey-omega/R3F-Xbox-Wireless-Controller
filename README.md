@@ -3,12 +3,12 @@
 > [!WARNING]
 > This project is still in development and may not work as expected.
 
-![Hero Image](./public/screenshot.png)
+![Hero Image](./docs/assets/img/screenshot.png)
 
 <div align="center">
-   <img src="./public/screenshot1.png" width="32%">
-   <img src="./public/screenshot2.png" width="32%">
-   <img src="./public/screenshot3.png" width="32%">
+   <img src="./docs/assets/img/screenshot1.png" width="32%">
+   <img src="./docs/assets/img/screenshot2.png" width="32%">
+   <img src="./docs/assets/img/screenshot3.png" width="32%">
 </div>
 
 ---
@@ -47,6 +47,7 @@
    ```
 
 2. Navigate to the project directory
+
    ```sh
     cd R3F-Xbox-Wireless-Controller
    ```
@@ -66,10 +67,11 @@
    ```sh
     pnpm build
    ```
-   
+
 ### :test_tube: Running Tests
 
 To run tests, run the following command
+
 ```bash
   pnpm test
 ```
