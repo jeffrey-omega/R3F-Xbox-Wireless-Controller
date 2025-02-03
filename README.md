@@ -1,8 +1,5 @@
 # 3D TV
 
-> [!WARNING]
-> This project is still in development and may not work as expected.
-
 ![Hero Image](./docs/assets/img/screenshot.png)
 
 <div align="center">
