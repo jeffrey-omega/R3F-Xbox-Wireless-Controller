@@ -1,6 +1,27 @@
 # Xbox Wireless Controller
 
-![Product Screenshot](/public/screenshot.png)
+![Hero Image](./public/screenshot.png)
+
+<!--
+Free to edit and add more features to this template.
+<div align="center">
+   <img src="./public/screenshot1.png" width="32%">
+   <img src="./public/screenshot2.png" width="32%">
+   <img src="./public/screenshot3.png" width="32%">
+</div>
+-->
+
+<div align="center">
+  <p align="center">
+  A 3D model of the Xbox Wireless Controller made with Blender and rendered with Three.js.
+    <br />
+    <a href="https://r3-f-xbox-wireless-controller.vercel.app/">View Demo</a>
+    &middot;
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=bug">Report Bug</a>
+    &middot;
+    <a href="https://github.com/jeffrey-omega/R3F-Xbox-Wireless-Controller/issues/new?labels=enhancement">Request Feature</a>
+  </p>
+</div>
 
 ### Built With
 
