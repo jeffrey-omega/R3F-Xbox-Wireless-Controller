@@ -9,7 +9,11 @@ export const Experience = () => {
       <OrbitControls enableZoom={true} enablePan={false} />
       <SpotLights />
       <Cameras />
-      <XboxWirelessController visible={true} />
+      <XboxWirelessController
+        visible={true}
+        position={[0, 0, 0]}
+        rotation={[0, 0, 0]}
+      />
     </>
   );
 };
