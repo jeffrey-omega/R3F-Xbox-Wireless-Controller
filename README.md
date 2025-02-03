@@ -1,4 +1,4 @@
-# 3D TV
+# Xbox Wireless Controller
 
 ![Hero Image](./docs/assets/img/screenshot.png)
 
