@@ -1,5 +1,8 @@
 # 3D TV
 
+> [!WARNING]
+> This project is still in development and may not work as expected.
+
 ![Hero Image](./public/screenshot.png)
 
 <div align="center">
