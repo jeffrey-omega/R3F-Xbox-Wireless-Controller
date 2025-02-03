@@ -2,18 +2,15 @@
 
 ![Hero Image](./public/screenshot.png)
 
-<!--
-Free to edit and add more features to this template.
 <div align="center">
    <img src="./public/screenshot1.png" width="32%">
    <img src="./public/screenshot2.png" width="32%">
    <img src="./public/screenshot3.png" width="32%">
 </div>
--->
 
 <div align="center">
   <p align="center">
-  A 3D model of the Xbox Wireless Controller made with Blender and rendered with Three.js.
+  A 3D model of the Xbox Wireless Controller made with Blender and rendered with React Three Fiber.
     <br />
     <a href="https://r3-f-xbox-wireless-controller.vercel.app/">View Demo</a>
     &middot;
