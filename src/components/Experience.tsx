@@ -1,14 +1,11 @@
-import { OrbitControls } from "@react-three/drei";
-import { Cameras } from "./Cameras";
-import { SpotLights } from "./SpotLights";
+import { Environment, OrbitControls } from "@react-three/drei";
 import { XboxWirelessController } from "./XboxWirelessController";
 
 export const Experience = () => {
   return (
     <>
       <OrbitControls enableZoom={true} enablePan={false} />
-      <SpotLights />
-      <Cameras />
+      <Environment preset="studio" />
       <XboxWirelessController
         visible={true}
         position={[0, 0, 0]}
